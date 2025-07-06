@@ -155,6 +155,7 @@ If you have any questions, feedback, or collaboration ideas, feel free to reach 
 
 **Team Lazy_Coders**  
 - Nimit Saxena – [GitHub](https://github.com/warrioroo7) | [Email](mailto:saxenanimit04@gmail.com)  
-- Aditya Ojha – [GitHub](https://github.com/aditya-0670) | [Email](mailto:adityaozha2015@gmail.com)  
+- Aditya Ojha – [GitHub](https://github.com/aditya-0670) | [Email](mailto:adityaozha2015@gmail.com)
+- Gaurav Yadav – [GitHub](https://github.com/gaurav6076) | [Email](mailto:gauravyadav6076@gmail.com)  
 
 > Built during HackOn With Amazon, 2025
