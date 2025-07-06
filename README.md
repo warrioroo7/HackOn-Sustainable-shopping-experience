@@ -2,12 +2,11 @@
  
 ## Theme: Sustainable Shopping Experience
 
-### Team Name: Lazy_Coders
+### Team Name: Berlin
 ### Team Members:
-- Sachin Singh
-- Shashi Prakash
-- Alakh Mathur
-- Tushar Srivastava
+- Nimit Saxena
+- Aditya Ojha
+- Gaurav Yadav
 
 ---
 
@@ -155,9 +154,7 @@ Where every click counts, every purchase matters, and every user becomes an envi
 If you have any questions, feedback, or collaboration ideas, feel free to reach out!
 
 **Team Lazy_Coders**  
-- Sachin Singh – [GitHub](https://github.com/sachinsingh45) | [Email](mailto:sachinsingh16404@gmail.com)  
-- Shashi Prakash – [GitHub](https://github.com/shashi9170) | [Email](mailto:shashipra2002@gmail.com)  
-- Alakh Mathur – [GitHub](https://github.com/AlakhMathur) | [Email](mailto:alakhm.ug22.cs@nitp.ac.in)  
-- Tushar Srivastava – [GitHub](https://github.com/official-Tushar) | [Email](mailto:tusharsrivastava8404@gmail.com)  
+- Sachin Singh – [GitHub](https://github.com/warrioroo7) | [Email](mailto:saxenanimit04@gmail.com)  
+- Shashi Prakash – [GitHub](https://github.com/aditya-0670) | [Email](mailto:adityaozha2015@gmail.com)  
 
 > Built during HackOn With Amazon, 2025
