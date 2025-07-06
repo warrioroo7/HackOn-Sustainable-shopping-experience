@@ -154,7 +154,7 @@ Where every click counts, every purchase matters, and every user becomes an envi
 If you have any questions, feedback, or collaboration ideas, feel free to reach out!
 
 **Team Lazy_Coders**  
-- Sachin Singh – [GitHub](https://github.com/warrioroo7) | [Email](mailto:saxenanimit04@gmail.com)  
-- Shashi Prakash – [GitHub](https://github.com/aditya-0670) | [Email](mailto:adityaozha2015@gmail.com)  
+- Nimit Saxena – [GitHub](https://github.com/warrioroo7) | [Email](mailto:saxenanimit04@gmail.com)  
+- Aditya Ojha – [GitHub](https://github.com/aditya-0670) | [Email](mailto:adityaozha2015@gmail.com)  
 
 > Built during HackOn With Amazon, 2025
